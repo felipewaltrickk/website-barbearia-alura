@@ -1,0 +1,49 @@
+.principal{
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+#barberpole {
+    width: 100%;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;    
+}
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+
+em strong {
+    color: brown;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+    padding-right: 30px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#barbeiro {
+    width: 50%;
+}
